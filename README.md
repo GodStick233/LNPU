@@ -10,7 +10,7 @@
 - 欢迎在Issues区提供建议
 - 投稿联系：
 
-  ![](./Dir/image/1.gif)
+  ![](https://github.com/a15641404/LNPU/blob/master/Dir/image/1.gif)
 
 ### 概率论与数理统计
 
