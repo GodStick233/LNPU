@@ -3,11 +3,14 @@
 
 ## Tip:
 
-- 本题库是免费提供下载，禁止用作任何商业用途
+- 本题库是免费提供下载，禁止用作任何商业用途,禁止转载
 - 欢迎向本题库投稿，但投稿请保证有完整答案
 - 如果你觉得本题库帮助到你，欢迎把上面的Star点亮
 - 你可以使用Ctrl+F来搜索你需要的科目的试题
 - 欢迎在Issues区提供建议
+- 投稿联系：
+
+  ![](./Dir/image/1.gif)
 
 ### 概率论与数理统计
 
@@ -24,5 +27,19 @@
 
 
 ### 数据结构
+
 [数据结构选择题](https://github.com/a15641404/LNPU/blob/master/Dir/CS/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%80%89%E6%8B%A9%E9%A2%98.doc)
+
+
+### Java程序设计
+
+[Java程序练习题](https://github.com/a15641404/LNPU/blob/master/Dir/CS/Java%E7%A8%8B%E5%BA%8F%E7%BB%83%E4%B9%A0%E9%A2%98.doc)
+
+[Java程序填空](https://github.com/a15641404/LNPU/blob/master/Dir/CS/Java%E7%A8%8B%E5%BA%8F%E5%A1%AB%E7%A9%BA.doc)
+
+[Java程序练习题](https://github.com/a15641404/LNPU/blob/master/Dir/CS/Java%E7%A8%8B%E5%BA%8F%E7%BB%83%E4%B9%A0%E9%A2%98.doc)
+
+[Java选择](https://github.com/a15641404/LNPU/blob/master/Dir/CS/Java%E9%80%89%E6%8B%A9.doc)
+
+
 
