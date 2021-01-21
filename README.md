@@ -59,4 +59,6 @@
 [Java选择](https://github.com/a15641404/LNPU/blob/master/Dir/CS/Java%E9%80%89%E6%8B%A9.doc)
 
 
-
+### 计算机网络
+### UML建模
+### 软件架构模式设计
