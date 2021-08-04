@@ -60,5 +60,10 @@
 
 
 ### 计算机网络
+[计算机网络选择题](https://github.com/GodStick233/LNPU/blob/master/Dir/CS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%80%89%E6%8B%A9%E9%A2%98.docx)
+
 ### UML建模
+[UML试卷+答案](https://github.com/GodStick233/LNPU/blob/master/Dir/CS/UML-%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.doc)
+
 ### 软件架构模式设计
+[软件架构模式复习资料](https://github.com/GodStick233/LNPU/blob/master/Dir/CS/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99.docx)
